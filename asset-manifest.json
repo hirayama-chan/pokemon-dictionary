@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokemon-dictionary/static/css/main.d8145503.css",
+    "main.js": "/pokemon-dictionary/static/js/main.5059282e.js",
+    "static/js/453.77397fdf.chunk.js": "/pokemon-dictionary/static/js/453.77397fdf.chunk.js",
+    "index.html": "/pokemon-dictionary/index.html",
+    "main.d8145503.css.map": "/pokemon-dictionary/static/css/main.d8145503.css.map",
+    "main.5059282e.js.map": "/pokemon-dictionary/static/js/main.5059282e.js.map",
+    "453.77397fdf.chunk.js.map": "/pokemon-dictionary/static/js/453.77397fdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8145503.css",
+    "static/js/main.5059282e.js"
+  ]
+}
